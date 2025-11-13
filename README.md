@@ -141,6 +141,7 @@ user123
 🌐 Deployment (Frontend)
 
 The frontend client application (the frontend folder) can be deployed to platforms like Vercel or Netlify.
+frontend url : inbotiq-auth-bcryb2zu5-inbotiqs-projects-3a59695e.vercel.app
 
 Configuration Steps:
 
@@ -150,7 +151,7 @@ Build Command: npm run build
 
 Output Directory: Usually dist (for Vite) or build (for CRA).
 
-Important: Before deployment, change all hardcoded http://localhost:5000 URLs in the frontend components (LoginPage.jsx, HomePage.jsx) to your live, deployed backend API URL (e.g., https://inbotiq-backend-xkqs.onrender.com).
+Important: Before deployment, change all hardcoded http://localhost:5000 URLs in the frontend components (LoginPage.jsx, HomePage.jsx) to your live, deployed backend API URL https://inbotiq-backend-xkqs.onrender.com.
 
 🤝 Contribution
 
